@@ -1,0 +1,10 @@
+{
+    "name": "Aashish chauhan",
+    "age": 24,
+    "aadharcard": 12345,
+    "adress": "SRE",
+    "mobile": "7895240214",
+    "email": "ashish@gmail.com",
+    "password": "1234",
+    "role": "voter"
+}
